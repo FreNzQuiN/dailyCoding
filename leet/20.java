@@ -13,6 +13,6 @@ class Solution {
                 }
             }
         }
-         return kurung.isEmpty();
+     return kurung.isEmpty();
     }
 }
